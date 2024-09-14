@@ -31,7 +31,7 @@ The project includes a C++ implementation of a multithreaded web crawler. Key co
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Web-Crawling-With-Multithreading.git
+   git clone https://github.com/Mozeb-Ahmed-Khan/Web-Crawling-With-Multithreading.git
 
 2. **Navigate to the Project Directory**:
    ```bash
